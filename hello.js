@@ -5,3 +5,4 @@ const sayHello = function (name) {
 
 sayHello("Edward");
 sayHello("Raymond");
+sayHello("Veronica");
