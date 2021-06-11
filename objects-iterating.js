@@ -17,6 +17,5 @@ for (const property in groupOne) {
     // for in loop goes through all property values in the object
   console.log(groupOne[property]) 
 
-    
 }
 
