@@ -1,3 +1,5 @@
+// sorts through the trash people through
+
 const smartGarbage = function (trash, bins) {
   if (trash === 'waste') {
     bins.waste++
