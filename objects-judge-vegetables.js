@@ -7,7 +7,6 @@ const judgeVegetable = function (vegetables, metric) {
   } else if (vegetables[2][metric] > vegetables[0][metric] && vegetables[2][metric] > vegetables[1][metric]) {
     return vegetables[2].submitter;
   }
-  
 }
 
 let vegetables = [
@@ -27,7 +26,6 @@ let vegetables = [
     plumpness: 1
   }
 ]
-
 
 let metric = 'redness'
 
