@@ -35,6 +35,9 @@ console.log(vegetables[1]);
 console.log(vegetables[1][2]);
 // prints undefined
 
+console.log(vegetables[1]['redness']);
+// prints out 10
+
 console.log(vegetables[1].plumpness);
 // prints [8 ,2]
 
